@@ -27,5 +27,3 @@ def length_of_longest_substring(s: str) -> int:
         return currlen
     else:
         return maxlen
-        
-print(length_of_longest_substring("1234567890qwertyuiop[]asdfghjkl;'zxcvbnm,./"))
